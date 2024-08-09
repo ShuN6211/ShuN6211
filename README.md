@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm currently working as a research and development engneer from Tokyo/Japan in artificial intelligence, 
+especially applied deep learning.
+
+I majored in condensed matter physics when I was a master's student.
 
 <!--
 **ShuN6211/ShuN6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
