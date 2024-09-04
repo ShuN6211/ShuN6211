@@ -3,6 +3,7 @@ I'm currently working as a research and development engneer from Tokyo/Japan in 
 especially applied deep learning.
 
 Also, I majored in condensed matter physics when I was a master's student and love it.
+
 I'm interested in applied mathmatics and it's inpact on real-world as well as basic technologies as a engneer such as WEB.
 
 <!--
