@@ -7,9 +7,10 @@ Also, I majored in condensed matter physics when I was a master's student and lo
 I'm interested in applied mathmatics and it's inpact on the real-world as well as the basic technologies as a engneer such as Web.
 
 - X: https://x.com/ShuN057721
+- qiita: https://qiita.com/ShuN6211
+- zenn: https://zenn.dev/shun0577
 - speakerdeck: https://speakerdeck.com/shun6211
 - conpass: https://connpass.com/user/ShuN6211/
-- linkedin: https://www.linkedin.com/in/shun-makino-ab72302b3/
 
 
 
